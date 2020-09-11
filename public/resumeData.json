@@ -4,7 +4,7 @@
     "description": "IT Undergrad and a ReactJs/Firebase/MERN Developer",
     "image": "my-img.jpg",
     "bio": "This is Saptarshi Sengupta, IT graduate of Netaji Subhash Engineering College(Passing out in the year 2022). I am a Web developw who is also interested in AI and ML. In free time, I like to watch movies and webseries and follow sports.",
-    "contactmessage": "Get in touch with me to ",
+    "contactmessage": "Get in touch with me for any internship opportunities, or if you need me or wish to collaborate with me for any project.",
     "email": "saptarshisg.2000@gmail.com",
     "phone": "+91 8777244236",
     "address": {
@@ -12,7 +12,7 @@
       "state": "India"
   
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload": "",
     "social": [
       {
@@ -97,7 +97,7 @@
         "url": "https://knowledge-share.vercel.app/"
       },
       {
-        "title": "Github Profile Searching app using React, Firebase and Github API",
+        "title": "Github Profile Searching app using React",
         "category": "Git-Fetch: A app where an authenticated user can search github profiles of other users using their username (buult using ReactJs, Firebase and Github API)",
         "image": "gitSearch.png",
         "url": "https://git-fetch-auth.vercel.app/"
