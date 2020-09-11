@@ -6,7 +6,7 @@ import Typography from '@material-ui/core/Typography'
 
 function Portfolio(props) {
   const theme = useTheme();
-  const matches = useMediaQuery(theme.breakpoints.up('sm'));
+  const matches = useMediaQuery(theme.breakpoints.down('sm'));
 
   if(props.data){
     var projects = props.data.projects.map(function(projects){
