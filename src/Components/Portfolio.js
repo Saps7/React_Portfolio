@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Grid from '@material-ui/core/Grid';
 import { useTheme } from '@material-ui/core/styles';
 import useMediaQuery from '@material-ui/core/useMediaQuery';
