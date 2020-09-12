@@ -103,6 +103,12 @@
         "url": "https://git-fetch-auth.vercel.app/"
       },
       {
+        "title": "Calamanac: A e-commerce site for selling paintings",
+        "category": "Used NodeJs, Express, MongoDB with EJS, Bootstrap, HTML, CSS to build landing, product(s) page and login/signup functionality for the e-commerce site.",
+        "image": "calmanac.png",
+        "url": "https://vast-anchorage-54704.herokuapp.com/"
+      },
+      {
         "title": "Multiple List: To-do-List App",
         "category": "A To-do-List app built using NodeJs, Express, MongoDB and EJS, HTML, CSS",
         "image": "todolist.png",
